@@ -7,15 +7,15 @@ The purpose of the project is to analyse the provided data set for several thous
 ### **Analysis of Outcomes Based on Launch Date**
 #### Outcomes based on launch date for 'Theater' 
 
-![Theater_Outcomes_vs_Launch](./Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](./Resources/Theater_Outcomes_vs_Launch.png)
 
 #### Outcomes based on launch date for 'Theater' sub-categories 'Musical', 'Plays' and 'Spaces' respectively.
 
-![Theater_Musical_Outcomes_vs_Launch](./Theater_Musical_Outcomes_vs_Launch.png)
+![Theater_Musical_Outcomes_vs_Launch](./Resources/Theater_Musical_Outcomes_vs_Launch.png)
 
-![Theater_Plays_Outcomes_vs_Launch](./Theater_Plays_Outcomes_vs_Launch.png)
+![Theater_Plays_Outcomes_vs_Launch](./Resources/Theater_Plays_Outcomes_vs_Launch.png)
 
-![Theater_Spaces_Outcomes_vs_Launch](./Theater_Spaces_Outcomes_vs_Launch.png)
+![Theater_Spaces_Outcomes_vs_Launch](./Resources/Theater_Spaces_Outcomes_vs_Launch.png)
 
 * The Kickstart campaigns for 'Theater' were most successful in May post which the number for successful campaigns started to come down.
 * December seemed to be the worst month for successful campaigns.
@@ -24,7 +24,7 @@ The purpose of the project is to analyse the provided data set for several thous
 
 ### **Analysis of Outcomes based on goals chart**
 
-![Outcomes_vs_Goals](./Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](./Resources/Outcomes_vs_Goals.png)
 
 * The percentage of successful projects was highest for projects with budget lesser than $5000.
 * No campaings were canceled in this category of 'Theater'.
@@ -50,10 +50,10 @@ The purpose of the project is to analyse the provided data set for several thous
 
 ### **Some other possible tables and/or graphs that we could create**
 * Bar Chart showing Country wise Outcome. US, BD, CA are the 3 most significant countries where most projects were happened. Others can be ignored or grouped as one for convinience.
-![Country_wise_Outcome](./Country_wise_Outcome.png)
+![Country_wise_Outcome](./Resources/Country_wise_Outcome.png)
 
 * Year-wise outcome for 'Theater'. 2014, 2015 and 2016 have been the most significant years when most projects were happened. 
-![Year_wise_Outcome](./Year_wise_Outcome.png)
+![Year_wise_Outcome](./Resources/Year_wise_Outcome.png)
 
 
 

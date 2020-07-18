@@ -27,6 +27,7 @@ The purpose of the project is to analyse the provided data set for several thous
 ![Outcomes_vs_Goals](./Resources/Outcomes_vs_Goals.png)
 
 * The percentage of successful projects was highest for projects with budget lesser than $5000.
+* The percentage of successful projects was least for projects with budget $25000-$35000 and greater than $45000.
 * No campaings were canceled in this category of 'Theater'.
 
 ### **Challenges**
